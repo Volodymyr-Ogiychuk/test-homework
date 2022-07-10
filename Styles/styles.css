@@ -1,9 +1,8 @@
-.body {
-    background-color: #fff;
-    color: #fff;
+body {
+    background-color: white;
 }
 
-.Header_1 {
+.header1 {
     background-color: blue;
     color: red;
 }
